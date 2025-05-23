@@ -1,3 +1,5 @@
+## Credit: 0xmoei
+
 ## Nockchain
 Nockchain is a lightweight chain for heavyweight compute. It uses ZK-Proof of Work (zkPoW). Miners create a ZK-Proof (ZKP) of a fixed puzzle computation, then hash the ZKP, and earn $NOCK based on their computation power.
 
